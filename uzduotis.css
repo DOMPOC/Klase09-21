@@ -1,0 +1,32 @@
+h1{
+	text-align: center;
+	color: red;
+	font-family: 'Karla', sans-serif;
+}	
+h2{
+	text-align: right;
+	font-family: 'Karla', sans-serif;
+	font-size: 1.2em;
+}
+article p{
+	text-align: justify;
+	font-family: 'Inter', sans-serif;
+}
+img{
+	width: 80px;
+}
+	
+h2{
+	text-align: right;
+}
+h3{text-align: right;
+}
+h4{
+	text-align: right;
+}
+h5{text-align: right;
+}
+h6{text-align: right;}
+footer p{
+	text-align: center;
+}
